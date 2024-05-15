@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Thuaha\\M4_Project_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|i:\\thuaha\\m4_project_solution\\m4_project\\productforms\\creatproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|solutionrelative:m4_project\\productforms\\creatproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|I:\\Thuaha\\M4_Project_Solution\\m4_project\\productforms\\creatproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|solutionrelative:m4_project\\productforms\\creatproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|I:\\Thuaha\\M4_Project_Solution\\m4_project\\reports\\formproductreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|solutionrelative:m4_project\\reports\\formproductreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|I:\\Thuaha\\M4_Project_Solution\\m4_project\\productforms\\productedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|solutionrelative:m4_project\\productforms\\productedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|I:\\Thuaha\\M4_Project_Solution\\m4_project\\productforms\\productedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|solutionrelative:m4_project\\productforms\\productedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|I:\\Thuaha\\M4_Project_Solution\\m4_project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2B24A99-4CCE-4D71-AD40-13EDCBB06168}|M4_Project\\M4_Project.csproj|solutionrelative:m4_project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductEdit.cs",
+              "DocumentMoniker": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\ProductForms\\ProductEdit.cs",
+              "RelativeDocumentMoniker": "M4_Project\\ProductForms\\ProductEdit.cs",
+              "ToolTip": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\ProductForms\\ProductEdit.cs",
+              "RelativeToolTip": "M4_Project\\ProductForms\\ProductEdit.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T15:35:08.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductEdit.cs [Design]",
+              "DocumentMoniker": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\ProductForms\\ProductEdit.cs",
+              "RelativeDocumentMoniker": "M4_Project\\ProductForms\\ProductEdit.cs",
+              "ToolTip": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\ProductForms\\ProductEdit.cs [Design]",
+              "RelativeToolTip": "M4_Project\\ProductForms\\ProductEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T15:35:03.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormProductReport.cs",
+              "DocumentMoniker": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\Reports\\FormProductReport.cs",
+              "RelativeDocumentMoniker": "M4_Project\\Reports\\FormProductReport.cs",
+              "ToolTip": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\Reports\\FormProductReport.cs",
+              "RelativeToolTip": "M4_Project\\Reports\\FormProductReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T15:33:55.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatProduct.cs",
+              "DocumentMoniker": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\ProductForms\\CreatProduct.cs",
+              "RelativeDocumentMoniker": "M4_Project\\ProductForms\\CreatProduct.cs",
+              "ToolTip": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\ProductForms\\CreatProduct.cs*",
+              "RelativeToolTip": "M4_Project\\ProductForms\\CreatProduct.cs*",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACgAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T15:16:46.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreatProduct.cs [Design]",
+              "DocumentMoniker": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\ProductForms\\CreatProduct.cs",
+              "RelativeDocumentMoniker": "M4_Project\\ProductForms\\CreatProduct.cs",
+              "ToolTip": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\ProductForms\\CreatProduct.cs [Design]",
+              "RelativeToolTip": "M4_Project\\ProductForms\\CreatProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T15:16:42.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\MainForm.cs",
+              "RelativeDocumentMoniker": "M4_Project\\MainForm.cs",
+              "ToolTip": "I:\\Thuaha\\M4_Project_Solution\\M4_Project\\MainForm.cs [Design]",
+              "RelativeToolTip": "M4_Project\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T14:39:13.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
